@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+
+
+#noticia1 {
+	width: 1150px;
+	height: 300px;
+    background-color: #580e9c;
+    padding-top: 4px
+}
+
+#noticia1 #descripcion, #foto{
+    background-color:#9e73bb;
+	width: 573px;
+    height: 300px;
+	display: inline-block;
+}
+
+ #foto{
+    background-color:#000000;
+}
+
+#titulosdelindex {
+	color: #5f10c5;
+    font-family: sans-serif;
+	font-size: 24px;
+	float: left;
+    text-align: center;
+	padding: 15px 195px;
+}
+
+h2 {
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+	font-size: 28px;    
+	float: left;
+	text-align: center; 
+}
+
+p {
+	color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+	font-size: 22px;
+	float: left;
+	text-align: center;
+    padding: 15px;
+}
+
